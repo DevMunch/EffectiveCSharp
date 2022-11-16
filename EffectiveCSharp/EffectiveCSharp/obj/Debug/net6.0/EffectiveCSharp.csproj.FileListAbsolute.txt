@@ -1,0 +1,15 @@
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\bin\Debug\net6.0\EffectiveCSharp.exe
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\bin\Debug\net6.0\EffectiveCSharp.deps.json
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\bin\Debug\net6.0\EffectiveCSharp.runtimeconfig.json
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\bin\Debug\net6.0\EffectiveCSharp.dll
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\bin\Debug\net6.0\EffectiveCSharp.pdb
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.csproj.AssemblyReference.cache
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.AssemblyInfoInputs.cache
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.AssemblyInfo.cs
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.csproj.CoreCompileInputs.cache
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.dll
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\refint\EffectiveCSharp.dll
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.pdb
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\EffectiveCSharp.genruntimeconfig.cache
+C:\Dev\CSharp\EffectiveCSharp\EffectiveCSharp\EffectiveCSharp\obj\Debug\net6.0\ref\EffectiveCSharp.dll
